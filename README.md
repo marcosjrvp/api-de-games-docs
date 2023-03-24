@@ -1,1 +1,1 @@
-# api-de-games-docs
+# api-de-games
